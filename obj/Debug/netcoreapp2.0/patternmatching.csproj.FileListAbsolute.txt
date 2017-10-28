@@ -1,0 +1,10 @@
+/Users/borakasmer/patternmatching/bin/Debug/netcoreapp2.0/patternmatching.deps.json
+/Users/borakasmer/patternmatching/bin/Debug/netcoreapp2.0/patternmatching.runtimeconfig.json
+/Users/borakasmer/patternmatching/bin/Debug/netcoreapp2.0/patternmatching.runtimeconfig.dev.json
+/Users/borakasmer/patternmatching/bin/Debug/netcoreapp2.0/patternmatching.dll
+/Users/borakasmer/patternmatching/bin/Debug/netcoreapp2.0/patternmatching.pdb
+/Users/borakasmer/patternmatching/obj/Debug/netcoreapp2.0/patternmatching.csproj.CoreCompileInputs.cache
+/Users/borakasmer/patternmatching/obj/Debug/netcoreapp2.0/patternmatching.AssemblyInfoInputs.cache
+/Users/borakasmer/patternmatching/obj/Debug/netcoreapp2.0/patternmatching.AssemblyInfo.cs
+/Users/borakasmer/patternmatching/obj/Debug/netcoreapp2.0/patternmatching.dll
+/Users/borakasmer/patternmatching/obj/Debug/netcoreapp2.0/patternmatching.pdb
